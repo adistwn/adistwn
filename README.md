@@ -6,7 +6,7 @@
 
 - 🏢 I'm currently working at **PT Asia Sekuriti Indonesia**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`
-- 🌍 I'm mostly active within the **Laravel Community**
+- 🌍 I'm familiar with **Laravel**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **php**, **laravel**, **codeigniter**, **nodejs**
 - ⚡️ I'm a huge fan of Iron Man and Avatar recently
