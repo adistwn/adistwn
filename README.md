@@ -4,7 +4,6 @@
 
 #### I'm a Full-Stack Web Developer working in Tangerang, Indonesia.
 
-- 🏢 I'm currently working at **PT Asia Sekuriti Indonesia**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`
 - 🌍 I'm familiar with **Laravel**
 - 🌱 Learning all about **Open Source**
