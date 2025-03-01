@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-I'm a **Full-Stack Web Developer** based in **Tangerang, Indonesia**. Passionate about building web applications, exploring new technologies, and diving into AI development.
+I'm a **Full-Stack Developer** based in **Tangerang, Indonesia**. Passionate about building web applications, exploring new technologies, and diving into AI development.
 
 - 💻 I work with **JavaScript, TypeScript, Go, VueJs, ReactJS, C#, Python, PHP**
 - 🌍 Experienced in **Express.js, AdonisJS, Laravel, CodeIgniter**
